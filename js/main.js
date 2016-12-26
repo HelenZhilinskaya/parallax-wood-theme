@@ -7,4 +7,3 @@ $('#second').parallax("50%", 0.1);
 $('#third').parallax("50%", 0.3);
 $('#footer').parallax("50%", 0.3);
 
-//NOTE: Not used in this demo by available in the plugin - outerHeight (true/false) - Whether or not jQuery should use it's outerHeight option to determine when a section is in the viewport
